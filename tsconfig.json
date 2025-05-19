@@ -1,0 +1,17 @@
+{
+    "exclude": ["./node_modules/", "./test/load", "./test/solidity"],
+    "compilerOptions": {
+      "allowJs": true,
+      "declaration": true,
+      "target": "esNext",
+      "outDir": "./dist",
+      "strict": true,
+      "module": "commonjs",
+      "sourceMap": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "useUnknownInCatchVariables": false,
+      "typeRoots": ["./node_modules/@types"]
+    }
+  }
