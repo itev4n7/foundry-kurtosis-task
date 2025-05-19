@@ -164,13 +164,13 @@ The project includes an automated test flow using both eth_call via RPC and ethe
 
 
 
-#### Run test using direct RPC:
+#### Run test that use RPC API:
 
 ```bash
 pnpm run test-precompile-rpc
 ```
 
-#### Run test using ethers.js:
+#### Run test that use ethers.js:
 
 ```bash
 pnpm run test-precompile
