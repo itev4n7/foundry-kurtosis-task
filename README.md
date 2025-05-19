@@ -142,7 +142,7 @@ The **most recommended way** to run all tests and deployment processes in one go
 
 ### 📝 Script Report Output:
 
-- ### ℹ️ After running the `deploy-and-verify.sh` shell script, a `script-report.txt` file will be generated.<br />It contains detailed logs of every stage during the script run.
+- ℹ️ After running the `deploy-and-verify.sh` shell script, a `script-report.txt` file will be generated.<br />It contains detailed logs of every stage during the script run.
 
 ---
 
