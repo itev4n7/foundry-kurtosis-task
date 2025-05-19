@@ -50,6 +50,13 @@ kurtosis run --enclave cdk github.com/0xPolygon/kurtosis-cdk --args-file ./.gith
 
 ![User Services](./user_services_cli_output.png)
 
+
+### 🛑 To Shutdown the Kurtosis Node
+
+```bash
+kurtosis clean --all
+```
+
 ## 🛠️ MacOS (Apple Silicon) Troubleshooting
 
 ### ❗ Problem 1: AMD64 Image Compatibility
