@@ -148,7 +148,7 @@ The **most recommended way** to run all tests and deployment processes in one go
 
 ## 🧪 Manual & Dedicated Stage-by-Stage Test Flows:
 
-## 🔗 Stage 1: Raw Precompile Invocation (Manual Test)
+## 🔗 Stage 1: Raw Precompile Invocation
 
 ### 🔧 Manual Check: Precompile Contract (0x02)
 
